@@ -1,7 +1,7 @@
 n=3
 if(n>0):
-  print("n is positive")
+  print("positive")
 elif(n<0):
-  print("n is negative")
+  print("negative")
 else:
-  print("n is zero")
+  print("zero")
