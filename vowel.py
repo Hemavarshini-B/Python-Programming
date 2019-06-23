@@ -4,4 +4,4 @@ if(vc=='a' or 'e' or 'i' or 'o' or 'u'):
 elif(vc=='@' or '#' or '$' or '%' or '^' or '&' or '*'):
   print("invalid")
 else:
-print("Consonant")
+  print("Consonant")
