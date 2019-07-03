@@ -6,3 +6,5 @@ if n>1:
       break
   else:
     print("yes")
+else:
+  print("no")
