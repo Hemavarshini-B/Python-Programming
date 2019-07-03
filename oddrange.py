@@ -1,4 +1,6 @@
-a,b=map(int,input().split())
-for i in range(a,b+1):
+a=input().split()
+b=int(a[0])
+c=int(a[1])
+for i in range(b+1,c):
   if(i%2!=0):
-    print(i)
+    print(i,end=' ')
