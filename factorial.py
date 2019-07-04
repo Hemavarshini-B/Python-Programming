@@ -1,5 +1,5 @@
-a=int(input())
+m=int(input())
 fact=1
-for i in range(1,a+1):
-  fact=fact*i
+for n in range(1,n+1):
+  fact=fact*n
 print(fact)
